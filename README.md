@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/mohammad-sachal-jawad-00a755152)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msachaljawad@gmail.com)
-![Open to work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Roles-2EA44F?style=for-the-badge)
+![Open to work](https://img.shields.io/badge/Open%20to-Internships%20%26%20SDR-Roles-2EA44F?style=for-the-badge)
 
 </div>
 
